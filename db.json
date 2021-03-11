@@ -1,0 +1,134 @@
+{
+    "articles":[
+      {
+        "source":{
+          "id":"techcrunch",
+          "name":"TechCrunch"
+        },
+        "author":"Kirsten Korosec",
+        "title":"Via buys mapping startup Remix for $100 million",
+        "description":"Remix, the startup that developed mapping software used by cities for transportation planning and street design, was born out of a hackathon during a Code for America fellowship. Nearly seven years later, the San Francisco-based startup is being acquired by V…",
+        "url":"https://techcrunch.com/2021/03/09/via-buys-mapping-startup-remix-for-100-million/",
+        "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/03/Via-Remix_Logo-Lockup.jpg?w=640",
+        "publishedAt":"2021-03-10T07:27:26Z",
+        "content":"Remix, the startup that developed mapping software used by cities for transportation planning and street design, was born out of a hackathon during a Code for America fellowship. Nearly seven years l… [+3078 chars]"
+      },
+      {
+        "source":{
+          "id":"techcrunch",
+          "name":"TechCrunch"
+        },
+        "author":"Romain Dillet",
+        "title":"Fleex lets you allocate a monthly budget for work from home equipment",
+        "description":"Meet Fleex, a French startup that was formally named Flexlab. The company wants to make it easier to give some cash to your employees so that they can spend it on a desk, an external monitor, some computer peripherals, a nice chair, etc. Essentially, Fleex wa…",
+        "url":"https://techcrunch.com/2021/03/09/fleex-lets-you-allocate-a-monthly-budget-for-work-from-home-equipment/",
+        "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/03/norbert-levajsics-D97n3LR5uN8-unsplash.jpg?w=600",
+        "publishedAt":"2021-03-10T07:00:18Z",
+        "content":"Meet Fleex, a French startup that was formally named Flexlab. The company wants to make it easier to give some cash to your employees so that they can spend it on a desk, an external monitor, some co… [+2081 chars]"
+      },
+      {
+        "source":{
+          "id":"techcrunch",
+          "name":"TechCrunch"
+        },
+        "author":"Manish Singh",
+        "title":"Apple starts assembling iPhone 12 in India",
+        "description":"Apple is beginning to assemble the iPhone 12 in India as it ramps up its production capacity in the world’s second largest smartphone market. Foxconn, a contract manufacturer partner of Apple, is assembling the iPhone 12 model — and no other iPhone 12 models …",
+        "url":"https://techcrunch.com/2021/03/09/apple-starts-assembling-iphone-12-in-india/",
+        "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1306078917.jpg?w=580",
+        "publishedAt":"2021-03-10T04:30:51Z",
+        "content":"Apple is beginning to assemble the iPhone 12 in India as it ramps up its production capacity in the world’s second largest smartphone market. Foxconn, a contract manufacturer partner of Apple, is ass… [+1730 chars]"
+      },
+      {
+        "source":{
+          "id":"techcrunch",
+          "name":"TechCrunch"
+        },
+        "author":"Anthony Ha",
+        "title":"Songclip raises $11M to bring more licensed music to social media",
+        "description":"The team behind Songclip thinks that social media could use more music. Yes, music is a big part of the experience on a handful of apps like TikTok and Triller, but Songclip co-founder and COO John vanSuchtelen told me, “That is not the end of how music is go…",
+        "url":"https://techcrunch.com/2021/03/09/songclip-funding/",
+        "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/03/songclip_techcrunch2.jpg?w=764",
+        "publishedAt":"2021-03-10T00:09:22Z",
+        "content":"The team behind Songclip thinks that social media could use more music.\r\nYes, music is a big part of the experience on a handful of apps like TikTok and Triller, but Songclip co-founder and COO John … [+2060 chars]"
+      },
+      {
+        "source":{
+          "id":"techcrunch",
+          "name":"TechCrunch"
+        },
+        "author":"Steve O'Hear",
+        "title":"Zego, the tech-enabled commercial motor insurer, raises $150M at $1.1B valuation",
+        "description":"Zego, the insurtech that got its start by offering flexible motorbike insurance for gig economy workers but has since expanded with a range of tech-enabled commercial motor insurance products, has raised $150 million. Leading the London-based company’s C roun…",
+        "url":"https://techcrunch.com/2021/03/09/zego-unicorn/",
+        "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/03/Sten_Roof.jpg?w=600",
+        "publishedAt":"2021-03-10T00:01:24Z",
+        "content":"Zego, the insurtech that got its start by offering flexible motorbike insurance for gig economy workers but has since expanded with a range of tech-enabled commercial motor insurance products, has ra… [+3368 chars]"
+      },
+      {
+        "source":{
+          "id":"techcrunch",
+          "name":"TechCrunch"
+        },
+        "author":"Natasha Lomas",
+        "title":"Jobandtalent takes $120M from Softbank to enter the US market",
+        "description":"Spain’s Jobandtalent, a digital temp staffing agency startup which operates a dual-sided platform that matches temps with employers needing casual labor in sectors like ecommerce, warehousing, logistics and manufacturing, has grabbed €100 million (~$120M) in …",
+        "url":"https://techcrunch.com/2021/03/09/jobandtalent-takes-120m-from-softbank-to-enter-the-us-market/",
+        "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/03/Series-D-image.png?w=712",
+        "publishedAt":"2021-03-10T00:01:15Z",
+        "content":"Spain’s Jobandtalent, a digital temp staffing agency startup which operates a dual-sided platform that matches temps with employers needing casual labor in sectors like ecommerce, warehousing, logist… [+5144 chars]"
+      },
+      {
+        "source":{
+          "id":"techcrunch",
+          "name":"TechCrunch"
+        },
+        "author":"Jonathan Shieber",
+        "title":"Investors get a rise out of Walmart's agreement to stock more Beyond Meat",
+        "description":"Beyond Meat shares soared today on the heels of an announcement that Walmart is beefing up its relationship with the purveyor of meatless protein patties, sausages, and balls. 900 stores will now be stocking Beyond Meat’s hot Italian sausages and its party pa…",
+        "url":"https://techcrunch.com/2021/03/09/investors-get-a-rise-out-of-walmarts-agreement-to-stock-more-beyond-meat/",
+        "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/03/BeyondMeat.jpg?w=764",
+        "publishedAt":"2021-03-09T23:42:46Z",
+        "content":"Beyond Meat shares soared today on the heels of an announcement that Walmart is beefing up its relationship with the purveyor of meatless protein patties, sausages, and balls.\r\n900 stores will now be… [+3104 chars]"
+      },
+      {
+        "source":{
+          "id":"techcrunch",
+          "name":"TechCrunch"
+        },
+        "author":"Anthony Ha",
+        "title":"Daily Crunch: Dropbox acquires DocSend for $165M",
+        "description":"Dropbox acquires a secure document-sharing startup, Sonos announces a new speaker and Google makes hotel listings free. This is your Daily Crunch for March 9, 2021. The big story: Dropbox acquires DocSend for $165M Dropbox already acquired electronic signatur…",
+        "url":"https://techcrunch.com/2021/03/09/daily-crunch-dropbox-acquires-docsend-for-165m/",
+        "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=600",
+        "publishedAt":"2021-03-09T23:34:17Z",
+        "content":"Dropbox acquires a secure document-sharing startup, Sonos announces a new speaker and Google makes hotel listings free. This is your Daily Crunch for March 9, 2021.\r\nThe big story: Dropbox acquires D… [+2833 chars]"
+      },
+      {
+        "source":{
+          "id":"techcrunch",
+          "name":"TechCrunch"
+        },
+        "author":"Anthony Ha",
+        "title":"Audience engagement startup Trufan raises $2.3M",
+        "description":"Trufan, a startup selling tools helping marketers analyze their social followings and collect audience data, announced today that it has raised a $2.3 million seed round. Despite raising a relatively small amount of funding ($4.1 million total), Trufan has al…",
+        "url":"https://techcrunch.com/2021/03/09/trufan-seed-funding/",
+        "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1222811180-1.jpg?w=600",
+        "publishedAt":"2021-03-09T23:31:02Z",
+        "content":"Trufan, a startup selling tools helping marketers analyze their social followings and collect audience data, announced today that it has raised a $2.3 million seed round.\r\nDespite raising a relativel… [+2329 chars]"
+      },
+      {
+        "source":{
+          "id":"techcrunch",
+          "name":"TechCrunch"
+        },
+        "author":"Brennan O'Donnell",
+        "title":"Proactive CEOs should prioritize European expansion",
+        "description":"The best CEOs are globally ambitious, and they know that unlocking Europe’s growth potential remains a critical step on the road to IPO.",
+        "url":"https://techcrunch.com/2021/03/09/proactive-ceos-should-prioritize-european-expansion/",
+        "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-918480798.jpg?w=538",
+        "publishedAt":"2021-03-09T23:17:14Z",
+        "content":"In 2008, I was moving to London as the global financial crisis slammed the brakes on growth for millions of businesses.\r\nFive years earlier, I had been sent to Dublin from headquarters in Mountain Vi… [+3058 chars]"
+      }
+    ]
+  }
